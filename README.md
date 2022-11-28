@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @vushkv
+- 💻 Lead Engineer
 - 👀 I’m interested in all about IT industry
 - 🌱 I’m currently learning testing on Python
 - 📫 How to reach me: v.ushkv@yandex.ru
